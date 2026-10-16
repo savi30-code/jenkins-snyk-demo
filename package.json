@@ -1,0 +1,12 @@
+
+{
+  "name": "jenkins-snyk-demo",
+  "version": "1.0.0",
+  "description": "Jenkins and Snyk demo",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
